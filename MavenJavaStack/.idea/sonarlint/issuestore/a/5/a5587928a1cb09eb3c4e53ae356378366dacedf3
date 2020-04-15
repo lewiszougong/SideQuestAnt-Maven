@@ -1,0 +1,7 @@
+
+]squid:S1118":Add a private constructor to hide the implicit public one.(Š“ÀËûÿÿÿÿ8¶²ç’–.
+Gsquid:S2115")Add password protection to this database.(Œ„»¥8¶²ç’–.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÿ§©ƒıÿÿÿÿ8¶²ç’–.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÇÉò8¶²ç’–.

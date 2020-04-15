@@ -1,0 +1,9 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÿ§©ƒıÿÿÿÿ8éüÇ£—.
+fsquid:S2095
+"HUse try-with-resources or close this "Connection" in a "finally" clause.(Œ„»¥8éüÇ£—.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÇÉò8éüÇ£—.
+Gsquid:S2115
+")Add password protection to this database.(Œ„»¥8éüÇ£—.
